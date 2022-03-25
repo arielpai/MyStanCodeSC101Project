@@ -1,1 +1,1 @@
-# MyStanCodeSC101Project
+# MyStanCodeProject
