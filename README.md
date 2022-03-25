@@ -1,7 +1,7 @@
 # MyStanCodeProject
 Hello there!\
 This repository holds my programming projects done during the period of StanCode courses.
-Watch my *[DEMO VIDEO]!*()
+Watch my *[DEMO VIDEO]!()*
 
 # Project Source Codes
 * [Hangman Game](https://github.com/arielpai/MyStanCodeSC101Project/tree/main/upload_to_Github/hangman)
